@@ -1,6 +1,6 @@
 # MySQL-Analysis_PowerBI-Dashboard
 Analyzing HR data, metrics, and statistics to get insights and apply them data to make recommendations related to recruitment, retention, and legal compliance.
-# HR-Dashboard-MySQL-PowerBI
+## Dashboard
 ![Screenshot 2023-10-02 064304](https://github.com/OmarKFawaz/MySQL-Analysis_PowerBI-Dashboard/assets/114176729/a97110d8-8c26-485c-9f1b-d32a4ccd1868)
 
 ![Screenshot 2023-10-02 064051](https://github.com/OmarKFawaz/MySQL-Analysis_PowerBI-Dashboard/assets/114176729/217bac93-61db-4e73-b45d-721a9865fb0b)
@@ -8,7 +8,7 @@ Analyzing HR data, metrics, and statistics to get insights and apply them data t
 
 ## _Data Used:
 
-**Data** - HR Data with over 22000 rows from the year 2000 to 2020.
+**Data** - HR Data with 22215 rows from the year 2000 to 2020.
 
 **Data Cleaning & Analysis** - MySQL Workbench
 
