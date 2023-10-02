@@ -41,7 +41,7 @@ Analyzing HR data, metrics, and statistics to get insights and apply them data t
  - The net change in employees has increased over the years.
 - The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
-## Limitations
+## _Limitations
 
 - Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
 - Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
